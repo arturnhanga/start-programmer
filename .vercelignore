@@ -1,0 +1,9 @@
+package.json
+bun.lock
+tsconfig.json
+vite.config.ts
+metadata.json
+.env.example
+.aistudio
+node_modules
+dist
